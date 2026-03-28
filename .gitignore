@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 node_modules/ 
 .env 
 saved_models/ 
 uploads/ 
 __pycache__/ 
 *.pyc 
+=======
+node_modules/
+.env
+saved_models/
+uploads/
+>>>>>>> f12fc09399063c91dfb873edc492a8f4549f41dc
