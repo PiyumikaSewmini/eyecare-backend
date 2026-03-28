@@ -1,0 +1,4 @@
+node_modules/
+.env
+saved_models/
+uploads/
