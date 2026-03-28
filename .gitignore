@@ -1,0 +1,6 @@
+node_modules/ 
+.env 
+saved_models/ 
+uploads/ 
+__pycache__/ 
+*.pyc 
